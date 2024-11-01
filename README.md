@@ -1,7 +1,7 @@
-<!-- <p align="center">-->
+ <p align="center">
   <a href="https://github.com/DustinAbhishekk">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=435&lines=Dustin+Abhishek" alt="Typing SVG" /></a>
- <!-- </p> -->
+  </p> 
 	  
 <p align="center">
   <!-- Typing SVG by DustinAbhishekk - https://github.com/DustinAbhishekk/readme-typing-svg -->
