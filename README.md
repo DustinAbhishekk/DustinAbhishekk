@@ -1,15 +1,14 @@
-<h1 align="center">Hi, I'm Abhishek 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,100:6C3CE9&height=180&section=header&text=Abhishek%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Full-stack%20developer%20%C2%B7%20UI%2FUX%20designer&descAlignY=54&descSize=18" />
 
 <p align="center">
   <a href="https://github.com/DustinAbhishekk">
-    <img alt="Full-stack developer · UI/UX designer · Always building"
-         src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Web%20Developer;UI%2FUX%20%26%20Graphic%20Designer;Always%20learning%2C%20always%20building&font=Fira%20Code&center=true&width=560&height=45&color=F75C7E&vCenter=true&pause=1000&size=22" />
+    <img alt="Full-stack developer, UI/UX designer, always building"
+         src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Web%20Developer;UI%2FUX%20%26%20Graphic%20Designer;I%20ship%20the%20whole%20thing%20%E2%80%94%20design%20to%20deploy&font=Fira%20Code&center=true&width=580&height=45&color=F75C7E&vCenter=true&pause=1000&size=21" />
   </a>
 </p>
 
 <p align="center">
-  Software engineer from <b>Salem, Tamil Nadu</b> — 2+ years freelancing.<br/>
-  I build web products end to end: the interface, the API behind it, and the design that holds it together.
+  📍 <b>Coimbatore, Tamil Nadu</b> &nbsp;·&nbsp; 2+ years freelancing &nbsp;·&nbsp; open to work
 </p>
 
 <p align="center">
@@ -20,57 +19,66 @@
   <a href="mailto:dustiabhishek73235@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
----
+<p align="center">
+  <img alt="Followers" src="https://img.shields.io/github/followers/DustinAbhishekk?style=flat-square&color=F75C7E&labelColor=1F222E&logo=github">
+  <img alt="Public repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDustinAbhishekk&query=%24.public_repos&label=repos&style=flat-square&color=6C3CE9&labelColor=1F222E&logo=github">
+  <img alt="Stars" src="https://img.shields.io/github/stars/DustinAbhishekk?style=flat-square&color=F8D866&labelColor=1F222E&logo=github">
+</p>
 
-### What I'm up to
+<br/>
 
-- 🛠 &nbsp;Building a Next.js news platform — App Router, MongoDB, an editorial dashboard, and a design system I actually maintain.
+## 📰 What I'm building right now
+
+> ### [Times Indian](https://timesindian.com) &nbsp;·&nbsp; a news platform, built from scratch
+>
+> A full publishing product, not a template. **Next.js App Router** and **TypeScript** on the front,
+> **MongoDB** behind it, and a newsroom dashboard where editors run approvals, comments and the
+> contact inbox. Every surface is theme-aware, accessible and responsive, on a design system
+> I maintain rather than a UI library I inherited.
+>
+> **Live at [timesindian.com](https://timesindian.com)** &nbsp;·&nbsp; source is private
+
+<br/>
+
+## 🧰 What I work with
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,tailwind,mongodb,git,figma,vercel,vscode&perline=12" />
+  </a>
+</p>
+
+<br/>
+
+## 🚀 Things I've shipped
+
+| | Project | What it is | |
+| :-- | :-- | :-- | :-- |
+| 🤝 | **[resolveai](https://github.com/DustinAbhishekk/resolveai)** | An autonomous personal advocacy platform | [Live ↗](https://resolveeai.netlify.app/) |
+| 🌾 | **[krishibot-ai](https://github.com/DustinAbhishekk/krishibot-ai)** | A Python assistant that answers farming questions | [Live ↗](https://krishibot-ai.vercel.app) |
+| 💰 | **[syfe-savings-planner](https://github.com/DustinAbhishekk/syfe-savings-planner)** | A savings goal planner in TypeScript | [Live ↗](https://syfe-savings-planner-five.vercel.app) |
+| 🗳️ | **[Blockchain voting system](https://github.com/DustinAbhishekk/Blockchain-Based-Voting-System)** | Tamper-evident voting, recorded on-chain | [Live ↗](https://blockchain-based-voting-system-zeta.vercel.app) |
+| 🎓 | **[placeit](https://github.com/DustinAbhishekk/placeit)** | A placement-preparation interface | [Live ↗](https://placeit-two.vercel.app) |
+| 💯 | **[100 projects in 100 days](https://github.com/DustinAbhishekk/-100projects100days)** | A hundred small builds in HTML, CSS and JS | — |
+
+<br/>
+
+## 📊 The streak
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=DustinAbhishekk&hide_border=true&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
+    <img alt="Abhishek's contribution streak" src="https://streak-stats.demolab.com/?user=DustinAbhishekk&hide_border=true&date_format=j%20M%5B%20Y%5D">
+  </picture>
+</p>
+
+<br/>
+
+## 💬 A few things about me
+
+- 🎨 &nbsp;I design as much as I code — if the interface is unfinished, the feature is unfinished.
 - 🚀 &nbsp;Exploring generative AI and LLM tooling, mostly on the product side.
-- 🎨 &nbsp;Designing as much as I code — if the UI is unfinished, the feature is unfinished.
-- 💬 &nbsp;Happy to talk shop: open an issue on any repo, or mail me.
+- 📫 &nbsp;Reach me at **dustiabhishek73235@gmail.com**, or open an issue on any repo.
+- 👾 &nbsp;Fun fact: in JavaScript, equal is not always equal.
 
-### Tech I reach for
-
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
-</p>
-
-### A few things I've built
-
-| Project | What it is | Live |
-| --- | --- | --- |
-| [resolveai](https://github.com/DustinAbhishekk/resolveai) | An autonomous personal advocacy platform | [Visit](https://resolveeai.netlify.app/) |
-| [krishibot-ai](https://github.com/DustinAbhishekk/krishibot-ai) | A Python assistant answering farming questions | [Visit](https://krishibot-ai.vercel.app) |
-| [syfe-savings-planner](https://github.com/DustinAbhishekk/syfe-savings-planner) | A savings goal planner in TypeScript | [Visit](https://syfe-savings-planner-five.vercel.app) |
-| [Blockchain-Based-Voting-System](https://github.com/DustinAbhishekk/Blockchain-Based-Voting-System) | Tamper-evident voting, built on-chain | [Visit](https://blockchain-based-voting-system-zeta.vercel.app) |
-| [placeit](https://github.com/DustinAbhishekk/placeit) | A placement-prep interface | [Visit](https://placeit-two.vercel.app) |
-| [100 projects in 100 days](https://github.com/DustinAbhishekk/-100projects100days) | A year of small builds in HTML, CSS and JS | — |
-
-### Stats
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DustinAbhishekk&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight">
-    <img alt="Abhishek's GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=DustinAbhishekk&show_icons=true&hide_border=true&include_all_commits=true&count_private=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DustinAbhishekk&layout=compact&langs_count=8&hide_border=true&theme=tokyonight">
-    <img alt="Most used languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DustinAbhishekk&layout=compact&langs_count=8&hide_border=true">
-  </picture>
-</p>
-
-<sub>Top languages counts the code in my public repos — it isn't a measure of what I know best.</sub>
-
----
-
-<p align="center"><i>Thanks for stopping by.</i></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3CE9,100:F75C7E&height=120&section=footer&text=Thanks%20for%20stopping%20by&fontSize=22&fontColor=ffffff&fontAlignY=72" />
