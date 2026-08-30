@@ -49,11 +49,11 @@ maintain rather than a UI library I inherited.
 
 | Project | What it is | Built with | |
 | :-- | :-- | :-- | :-- |
-| **[resolveai](https://github.com/DustinAbhishekk/resolveai)** | An autonomous personal advocacy platform | Web | [Live ↗](https://resolveeai.netlify.app/) |
-| **[krishibot-ai](https://github.com/DustinAbhishekk/krishibot-ai)** | An assistant that answers farming questions | Python | [Live ↗](https://krishibot-ai.vercel.app) |
-| **[syfe-savings-planner](https://github.com/DustinAbhishekk/syfe-savings-planner)** | A savings goal planner | TypeScript | [Live ↗](https://syfe-savings-planner-five.vercel.app) |
-| **[Blockchain voting](https://github.com/DustinAbhishekk/Blockchain-Based-Voting-System)** | Tamper-evident voting, recorded on-chain | Web3 | [Live ↗](https://blockchain-based-voting-system-zeta.vercel.app) |
-| **[placeit](https://github.com/DustinAbhishekk/placeit)** | A placement-preparation interface | Web | [Live ↗](https://placeit-two.vercel.app) |
+| **[krishibot-ai](https://github.com/DustinAbhishekk/krishibot-ai)** | An AI assistant answering farming questions in English and Hindi | Flask · Groq | [Live ↗](https://krishibot-ai.vercel.app) |
+| **[syfe-savings-planner](https://github.com/DustinAbhishekk/syfe-savings-planner)** | A multi-currency savings tracker on live exchange rates | Next.js · TypeScript | [Live ↗](https://syfe-savings-planner-five.vercel.app) |
+| **[resolveai](https://github.com/DustinAbhishekk/resolveai)** | An autonomous personal advocacy platform | Angular | [Live ↗](https://resolveeai.netlify.app/) |
+| **[SecureChain Vote](https://github.com/DustinAbhishekk/Blockchain-Based-Voting-System)** | A voting interface wired to a real MetaMask wallet | Web3 · Tailwind | [Live ↗](https://blockchain-based-voting-system-zeta.vercel.app) |
+| **[MockupPro](https://github.com/DustinAbhishekk/placeit)** | A landing page for a product mockup generator | Tailwind · JS | [Live ↗](https://placeit-two.vercel.app) |
 | **[100 projects in 100 days](https://github.com/DustinAbhishekk/-100projects100days)** | A hundred small builds, one a day | HTML · CSS · JS | — |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F75C7E,100:6C3CE9&height=3&section=header" />
